@@ -1,0 +1,44 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+#footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+
+}
+body{
+    background-color: red;
+}
+
+img{
+    width: 40%;
+    border-radius:10%;
+    padding:5%;
+    box-shadow: 0 6px 10px 0 rgba(2,2,2,0.4);
+    display: inline;
+}
+img:hover{
+    border-radius: 130px;
+}
+.e{
+    display: inline;
+    padding: 10px;
+}
